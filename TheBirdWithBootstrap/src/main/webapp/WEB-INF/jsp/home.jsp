@@ -47,6 +47,12 @@
 					<td>Bird</td>
 					<td>lawyer@example.com</td>
 				</tr>
+				<tr>
+					<th scope="row">4</th>
+					<td>Parrot</td>
+					<td>Bird</td>
+					<td>marketing@example.com</td>
+				</tr>
 			</tbody>
 		</table>
 
