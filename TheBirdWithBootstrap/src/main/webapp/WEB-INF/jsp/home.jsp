@@ -30,31 +30,31 @@
 					<td>admin@example.com</td>
 				</tr>
 				<tr>
-					<th scope="row">2</th>
+					<th scope="row">1</th>
 					<td>Sparrow</td>
 					<td>Bird</td>
 					<td>support@example.com</td>
 				</tr>
 				<tr>
-					<th scope="row">3</th>
+					<th scope="row">1</th>
 					<td>Seagull</td>
 					<td>Bird</td>
 					<td>sales@example.com</td>
 				</tr>
 				<tr>
-					<th scope="row">4</th>
+					<th scope="row">1</th>
 					<td>Penguin</td>
 					<td>Bird</td>
 					<td>lawyer@example.com</td>
 				</tr>
 				<tr>
-					<th scope="row">5</th>
+					<th scope="row">1</th>
 					<td>Parrot</td>
 					<td>Bird</td>
 					<td>marketing@example.com</td>
 				</tr>
 				<tr>
-					<th scope="row">6</th>
+					<th scope="row">1</th>
 					<td>Falcon</td>
 					<td>Bird</td>
 					<td>ceo@example.com</td>
