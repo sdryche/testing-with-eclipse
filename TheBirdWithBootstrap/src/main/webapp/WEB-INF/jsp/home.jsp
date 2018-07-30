@@ -53,12 +53,6 @@
 					<td>Bird</td>
 					<td>marketing@example.com</td>
 				</tr>
-				<tr>
-					<th scope="row">6</th>
-					<td>Falcon</td>
-					<td>Bird</td>
-					<td>ceo@example.com</td>
-				</tr>
 			</tbody>
 		</table>
 
