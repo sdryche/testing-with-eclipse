@@ -59,25 +59,13 @@
 					<td>Bird</td>
 					<td>marketing@example.com</td>
 				</tr>
-				<tr>
-					<th scope="row">456442s356s</th>
-					<td>Owl</td>
-					<td>Bird</td>
-					<td>marketing@example.com</td>
-				</tr>
-				<tr>
-					<th scope="row">88888</th>
-					<td>Albatros</td>
-					<td>Bird</td>
-					<td>marketing@example.com</td>
-				</tr>
 			</tbody>
 		</table>
 	</div>
 	
-	<div class="container">
+<!-- 	<div class="container">
 		<button type="button" class="btn btn-primary">Pop Up Modal</button>
-	</div>
+	</div> -->
 	
 </body>
 </html>
