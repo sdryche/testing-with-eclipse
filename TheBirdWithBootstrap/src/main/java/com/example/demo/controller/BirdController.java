@@ -8,7 +8,7 @@ import org.springframework.web.servlet.ModelAndView;
 
 @RestController
 public class BirdController {
-	@GetMapping(value="/home")
+	@GetMapping(value="home")
 	@ResponseBody
 	
 	public ModelAndView home() {
